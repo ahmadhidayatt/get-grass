@@ -1,6 +1,6 @@
 
 # Get Grass 
-Get Grass BOT
+Get Grass BOT https://github.com/im-hanzou/get-grass
 
 Register Here : [GetGrass](https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk)
 
